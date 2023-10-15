@@ -1,11 +1,11 @@
 {
-	"name": "reactfolio",
-	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"name": "personalweb",
+	"version": "1.0.0",
+	"description": "Zach's personal website built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Zichao Xie",
+		"email": "zichaoxie.zx@gmail.com",
+		"url": "https://zachxie3.github.io"
 	},
 	"license": "MIT",
 	"private": true,
