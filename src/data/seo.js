@@ -10,7 +10,7 @@ const SEO = [
 		page: "about",
 		description:
 			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: ["Zach", "Software Development", "Electrical Engineering", "Artificial Intelligence"],
 	},
 
 	{

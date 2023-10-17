@@ -1,4 +1,5 @@
 import React from "react";
+import ReactMarkdown from "react-markdown";
 
 function article_1() {
 	return {
@@ -40,6 +41,8 @@ function article_1() {
 }
 
 function article_2() {
+	const markdown = '## Hi, *world*!'
+
 	return {
 		date: "7 May 2023",
 		title: "Artificial Intelligence in Healthcare",
@@ -55,6 +58,10 @@ function article_2() {
 		body: (
 			<React.Fragment>
 				<h1>Content of article 2</h1>
+				<div className="article content"> 
+					<ReactMarkdown>{markdown}</ReactMarkdown>
+				</div>
+				
 			</React.Fragment>
 		),
 	};

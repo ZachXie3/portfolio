@@ -40,7 +40,7 @@ const About = () => {
 
 					<div className="about-container">
 						<div className="about-main">
-							<div className="about-right-side">
+							<div className="about-left-side">
 								<div className="title about-title">
 									{INFO.about.title}
 								</div>
@@ -50,7 +50,7 @@ const About = () => {
 								</div>
 							</div>
 
-							<div className="about-left-side">
+							<div className="about-right-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
